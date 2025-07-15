@@ -15,14 +15,11 @@ For more information, visit: [Inovatim Innovation Competition](https://www.inova
 - Supports sustainable agriculture and optimizes resource utilization  
 - Assists farmers in making informed decisions  
 
----
-
 ## Project Overview
 
 Selecting the right crop according to soil and environmental conditions is crucial for successful farming. This project analyzes historical weather and soil data, considering parameters such as water retention capacity, pH, lime content, salinity, organic matter, soil structure, available phosphorus and potassium, among others.
 
 Additionally, it incorporates plant requirements for light intensity, water needs, temperature, humidity, and nutrients to provide a comprehensive decision support mechanism. This enables farmers to practice more efficient and sustainable agriculture.
-
 
 ## Technologies Used
 
