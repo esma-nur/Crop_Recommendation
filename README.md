@@ -2,6 +2,11 @@
 
 This project is a **Decision Support System** designed to help farmers select the most productive crop based on soil analysis and environmental factors. The system aims to improve agricultural productivity and optimize resource usage through data-driven analysis.
 
+## Competition
+
+This project was developed as part of the **Inovatim Innovation Competition**.  
+For more information, visit: [Inovatim Innovation Competition](https://www.inovatim.org/)
+
 ---
 
 ## Key Features
@@ -18,7 +23,6 @@ Selecting the right crop according to soil and environmental conditions is cruci
 
 Additionally, it incorporates plant requirements for light intensity, water needs, temperature, humidity, and nutrients to provide a comprehensive decision support mechanism. This enables farmers to practice more efficient and sustainable agriculture.
 
----
 
 ## Technologies Used
 
