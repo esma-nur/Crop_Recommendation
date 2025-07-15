@@ -25,6 +25,6 @@ Additionally, it incorporates plant requirements for light intensity, water need
 - Python  
 - Data Analysis and Visualization  
 - Machine Learning Models  
-- Web-based Application (Optional)  
+- Web-based Application 
 
 ---
